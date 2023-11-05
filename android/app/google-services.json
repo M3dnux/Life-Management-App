@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541059192036",
+    "project_id": "life-management-app-71d27",
+    "storage_bucket": "life-management-app-71d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541059192036:android:80ef76979c9623b10248f1",
+        "android_client_info": {
+          "package_name": "com.m3dnux.life_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRa9AgdAIYnPM2q1-qy7pEzwKHhoHQEsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
